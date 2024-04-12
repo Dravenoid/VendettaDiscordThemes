@@ -13,8 +13,8 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#383838",
@@ -97,8 +97,8 @@
             "#000000"
         ],
         "CHAT_BORDER": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "DEPRECATED_CARD_BG": [
             "#cc241db0",
@@ -165,12 +165,12 @@
             "#f0f0f0"
         ],
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-            "#212121cc",
-            "#212121cc"
+            "#000000cc",
+            "#000000cc"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-            "#212121e6",
-            "#212121e6"
+            "#000000e6",
+            "#000000e6"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
             "#cc241d",
@@ -201,8 +201,8 @@
             "#f0f0f0"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "INFO_HELP_TEXT": [
             "#ffffff",
@@ -213,8 +213,8 @@
             "#f0f0f0"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
             "#ffffff",
@@ -253,16 +253,16 @@
             "#787878"
         ],
         "MODAL_FOOTER_BACKGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#383838",
@@ -281,8 +281,8 @@
             "#00000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#212121",
-            "#212121"
+            "#000000",
+            "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
@@ -354,14 +354,14 @@
         "PRIMARY_300": "#9e9e9e",
         "PRIMARY_360": "#9e9e9e",
         "PRIMARY_400": "#6b6b6b",
-        "PRIMARY_460": "#212121",
+        "PRIMARY_460": "#000000",
         "PRIMARY_500": "#4f4f4f",
-        "PRIMARY_560": "#212121",
+        "PRIMARY_560": "#000000",
         "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#212121",
-        "PRIMARY_660": "#212121",
-        "PRIMARY_700": "#212121",
-        "PRIMARY_800": "#212121",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
         "PRIMARY_900": "#020202",
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
         "BRAND_230": "#9e9e9e",
