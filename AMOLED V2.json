@@ -249,7 +249,7 @@
             "#f0f0f0"
         ],
         "LOGO_PRIMARY": [
-            "#00ff00",
+            "#a6a6a6",
             "#787878"
         ],
         "MODAL_FOOTER_BACKGROUND": [
@@ -289,7 +289,7 @@
             "#9d0006"
         ],
         "STATUS_DANGER_TEXT": [
-            "#00ff00",
+            "#a6a6a6",
             "#787878"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
