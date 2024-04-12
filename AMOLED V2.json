@@ -385,9 +385,9 @@
         "RED_400": "#cc241d",
         "RED_430": "#cc241d",
         "RED_460": "#cc241d",
-        "GREEN_360": "#689d6a",
+        "GREEN_360": "#339e37",
         "WHITE_500": "#ffffff",
-        "YELLOW_300": "#d77921"
+        "YELLOW_300": "#d67e2b"
     },
     "plus": {
         "version": 0,
