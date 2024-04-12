@@ -1,6 +1,6 @@
 {
-    "name": "Vendetta AMOLED V2",
-    "description": "An AMOLED theme, simply dark and grayscale. (Experimental)",
+    "name": "Vendetta AMOLED",
+    "description": "An AMOLED theme, simply dark and grayscale.",
   "authors": [
       {
          "name": "null",
@@ -37,8 +37,8 @@
             "#080808"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000",
-            "#000000"
+            "#787878",
+            "#787878"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#d1d1d1",
@@ -250,7 +250,7 @@
         ],
         "LOGO_PRIMARY": [
             "#a6a6a6",
-            "#000000"
+            "#787878"
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#212121",
@@ -290,7 +290,7 @@
         ],
         "STATUS_DANGER_TEXT": [
             "#a6a6a6",
-            "#000000"
+            "#787878"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#bababa",
@@ -309,8 +309,8 @@
             "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#000000",
-            "#000000"
+            "#787878",
+            "#787878"
         ],
         "TEXT_DANGER": [
             "#fb4934",
